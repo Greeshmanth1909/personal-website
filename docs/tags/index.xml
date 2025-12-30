@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Heading</title>
-    <link>http://localhost:1313/tags/</link>
+    <link>https://greeshmanth1909.github.io/personal-website/tags/</link>
     <description>Recent content in Tags on Heading</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>pulicallu.greeshmanth@gmail.com (Greeshmanth Pulicallu)</managingEditor>
     <webMaster>pulicallu.greeshmanth@gmail.com (Greeshmanth Pulicallu)</webMaster>
     <copyright>© 2025 Greeshmanth Pulicallu</copyright>
-    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://greeshmanth1909.github.io/personal-website/tags/index.xml" rel="self" type="application/rss+xml" />
     
   </channel>
 </rss>

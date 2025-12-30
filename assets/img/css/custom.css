@@ -1,0 +1,5 @@
+.author-image img,
+.prose .author img,
+article img[src*="author"] {
+  object-position: center top; /* Adjust these values */
+}

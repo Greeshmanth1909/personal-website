@@ -2,7 +2,7 @@ disabled = false
 languageCode = "en"
 languageName = "English"
 weight = 1
-title = "Heading"
+title = "Blog"
 
 [params]
   displayName = "EN"
@@ -20,7 +20,7 @@ title = "Heading"
    image = "img/greeshmanth.jpg"
    imageQuality = 96
    headline = "Software Engineer"
-   bio = "I'm an MSCS student from Georgia institute of Technology"
+   bio = "Software Engineer and MSCS student from Georgia institute of Technology"
    links = [
      { email = "mailto:pulicallu.greeshmanth@gmail.com" },
 #     { link = "https://link-to-some-website.com/" },
